@@ -1,0 +1,5 @@
+*.pkl 
+utils/preprocessed_data.pkl 
+data/ 
+venv/ 
+__pycache__/ 
